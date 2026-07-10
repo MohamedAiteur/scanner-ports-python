@@ -1,0 +1,14 @@
+==================================================
+🛡️ RAPPORT D'AUDIT RÉSEAU - SCANNER DE PORTS
+📅 Date du scan : 10/07/2026 08:34:15
+🎯 Cible : ynov.com (172.67.74.226)
+==================================================
+
+🔴 Port 21 [FTP (Fichiers)] : FERMÉ
+🔴 Port 22 [SSH (Accès sécurisé)] : FERMÉ
+🔴 Port 23 [Telnet (Non sécurisé)] : FERMÉ
+🟢 Port 80 [HTTP (Web)] : OUVERT
+🟢 Port 443 [HTTPS (Web sécurisé)] : OUVERT
+
+--------------------------------------------------
+🎉 Fin du scan réseau avec succès.
